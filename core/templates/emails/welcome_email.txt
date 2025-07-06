@@ -1,0 +1,17 @@
+Hi {{ user_name }},
+
+Welcome to Our Platform!
+
+We are thrilled to have you join us. Get ready to explore all the amazing features we offer. Whether you're here to watch videos, chat with the community, or discover new marketing insights, we've got something for you.
+
+To get started, you can log in to your account here:
+{{ login_url }}
+
+If you have any questions, feel free to reach out to our support team.
+
+Best regards,
+The Our Platform Team
+
+---
+&copy; {% now "Y" %} Our Platform. All rights reserved.
+If you did not sign up for this account, please ignore this email.
